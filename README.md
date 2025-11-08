@@ -48,17 +48,14 @@
 
 ## 開發環境
 - Windows 11 Pro 24H2
-- Visual studio cuda
+- Visual studio code
 - ESP-IDF v5.4
 
 
 ## 開發過程使用的AI工具
 ### 內嵌工具
-- Claude Code (MCP:Zen)
-- GitHub Copilot Pro
-### 外部工具
+- Claude Code
+- GitHub Copilot
 - ChatGPT (codex)
 - Claude
 - Gemini
-- Grok
-- DeepSeek
